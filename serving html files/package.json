@@ -1,9 +1,7 @@
-//to create package.json simple do "npm init" on your cmd prompt and pass the value you want to filed
-
 {
-  "name": "myapp",
+  "name": "serving-html-file",
   "version": "1.0.0",
-  "description": "simple server app",
+  "description": "seving file as paramater",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

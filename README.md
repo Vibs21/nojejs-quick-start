@@ -1,8 +1,7 @@
-# nojejs-quick-start
+## nojejs-quick-start
 
-# INTRODUCTION
-1.NodeJs is a 
-	* JavaScript running on the server to build powerful, fast & scalable web apps.
+### INTRODUCTION to .NodeJs
+	* JavaScript running on the server to build powerful, fast & scalable web apps. /n
 	* Built on Chrome V8 JavaScript engine
 	* Uses event driven , non blocking I/O model
 
@@ -12,6 +11,9 @@
 
 This repo contains following things
 
-#simple server
+### simple server
 	*created simple server (node fileName.js => to run)
+
+### serving html file as a parameter to nodejs
+	
 
