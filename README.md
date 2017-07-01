@@ -1,6 +1,6 @@
 ## nojejs-quick-start
 
-### INTRODUCTION to NodeJs
+### INTRODUCTION to NodeJs.
 	* JavaScript running on the server to build powerful, fast & scalable web apps.
 	* Built on Chrome V8 JavaScript engine
 	* Uses event driven , non blocking I/O model
